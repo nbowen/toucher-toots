@@ -1,5 +1,7 @@
 # Computer-Touching Interactive Tutorials
 
+Interactive tutorials — not video or text lessons that teach you to make real apps, but guided tutorials that “feel like” you’re doing the real thing, without installing the real thing.
+
 
 ## HTML
 
