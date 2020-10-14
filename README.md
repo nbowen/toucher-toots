@@ -66,6 +66,10 @@
 [https://www.learnscala.org/](https://www.learnscala.org/)
 [Ron Reiter]
 
+## Logo
+
+[https://turtleacademy.com/lessons](https://turtleacademy.com/lessons)
+
 ## Notes: External Resources
 
 #### Ron Reiter, Interactive Tutorials:
