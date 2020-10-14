@@ -1,30 +1,37 @@
 # Computer-Touching Interactive Tutorials
 
+Interactive tutorials — not video or text lessons that teach you to make real apps, but guided tutorials that “feel like” you’re doing the real thing, without installing the real thing.
+
 
 ## HTML
 
 [https://www.learn-html.org/](https://www.learn-html.org/)
+
 [Ron Reiter]
 
 ## C
 
 [https://www.learn-c.org/](https://www.learn-c.org/)
+
 [Ron Reiter]
 
 ## C++
 
 [https://www.learn-cpp.org/](https://www.learn-cpp.org/)
+
 [Ron Reiter]
 
 ## Shell Scripting
 
 [https://www.learnshell.org/](https://www.learnshell.org/)
+
 [Ron Reiter]
 
   
 ## JavaScript
 
 [https://www.learn-js.org/](https://www.learn-js.org/)
+
 [Ron Reiter]
 
 ## Git
@@ -34,6 +41,7 @@
 ## Python
 
 [https://www.learnpython.org/](https://www.learnpython.org/)
+
 [Ron Reiter]
 
 ## SQL
@@ -41,6 +49,7 @@
 [https://sqlbolt.com/](https://sqlbolt.com/)
 
 [https://www.learnsqlonline.org/](https://www.learnsqlonline.org/)
+
 [Ron Reiter]
 
 ## Redis
@@ -54,16 +63,19 @@
 ## Python  
 
 [https://www.learnpython.org/](https://www.learnpython.org/)
+
 [Ron Reiter]
 
 ## Java
 
 [https://www.learnjavaonline.org/](https://www.learnjavaonline.org/)
+
 [Ron Reiter]
 
 ## Scala
 
 [https://www.learnscala.org/](https://www.learnscala.org/)
+
 [Ron Reiter]
 
 ## Logo
